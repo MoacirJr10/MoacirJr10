@@ -18,7 +18,7 @@
 </div> 
 
 <div aling="center">
-  <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">< img src="https://br.freepik.com/icone/linkedin_889122"/a>
+  <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">< img src="[https://br.freepik.com/icone/linkedin_889122](https://images.app.goo.gl/bfxqv6D1K6zDiroc7)"/a>
 </div>
  
 ### Studying in this moment:

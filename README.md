@@ -16,6 +16,10 @@
 <div align="center">  
 <a href="https://www.instagram.com/moacir00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+<div aling="center">
+  <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">< img src="https://br.freepik.com/icone/linkedin_889122"/a>
+</div>
  
 ### Studying in this moment:
 ![Java]()&nbsp;

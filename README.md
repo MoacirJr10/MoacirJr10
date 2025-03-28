@@ -18,7 +18,7 @@
 </div> 
 
 <div aling="center">
-  <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">< img src="[[https://br.freepik.com/icone/linkedin_889122](https://images.app.goo.gl/bfxqv6D1K6zDiroc7)](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/a>
+  <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank"><img src="[https://br.freepik.com/icone/linkedin_889122](https://images.app.goo.gl/bfxqv6D1K6zDiroc7)](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/a>
 </div>
  
 ### Studying in this moment:

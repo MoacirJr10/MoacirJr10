@@ -6,8 +6,6 @@
 
 <div align="center">
 
-### 🚀 GitHub Stats
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -15,19 +13,16 @@
 
 ---
 
-### 📈 Contribution Graph
 
 [![Moacir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MoacirJr10&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" />
 
 ---
 
-### 🌐 Social Media
 
 <a href="https://www.instagram.com/moacir00/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -38,9 +33,8 @@
 
 ---
 
-### 📚 Currently Learning
 
-#### 🖥️ Languages & Frameworks
+#### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,7 +45,7 @@
 ![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-#### 🛠️ Tools & IDEs
+####  Tools & IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -61,7 +55,7 @@
 
 ---
 
-### 👀 Visitors Count
+
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/MoacirJr10/count.svg" />

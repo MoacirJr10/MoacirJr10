@@ -12,27 +12,16 @@
 </div>
 
 ---
-
-
-[![Moacir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-
 <img src="https://github-profile-trophy.vercel.app/?username=MoacirJr10&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" />
 
 ---
-
-
 <a href="https://www.instagram.com/moacir00/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 ---
-
 
 #### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,8 +43,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
-
-
+[![Moacir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/MoacirJr10/count.svg" />

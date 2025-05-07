@@ -1,6 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2804F5,6A0DAD&height=150&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=FFFFFF&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2804F5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Moacir+Pereira+Da+Silva+Junior;I'm+30+years+old;I+am+from+Uberlândia,+MG;I+study+Computer+Engineering;Currently+learning+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2804F5&height=150&section=header&text=Moacir%20Pereira%20Da%20Silva%20Junior&fontSize=30&fontColor=FFFFFF" />
+</p>
+
+<p align="center">
+  <b>👋 Olá, seja bem-vindo(a) ao meu GitHub!</b><br>
+  📍 Uberlândia, MG &nbsp;|&nbsp; 🎓 Estudante de Engenharia da Computação<br>
+  💻 Atualmente aprendendo programação &nbsp;|&nbsp; 🎉 30 anos
+</p>
 
 ---
 

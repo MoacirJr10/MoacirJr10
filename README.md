@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2804F5,6A0DAD&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 
 <p align="center">
-  <b>👋 Hello, welcome to my GitHub profile!</b><br>
-  📍 Uberlândia, MG &nbsp;|&nbsp; 🎓 Computer Engineering student<br>
-  💻 Currently learning programming &nbsp;|&nbsp; 🎉 30 years old
+  <b> Hello, welcome to my GitHub profile!</b><br>
+  📍 Uberlândia, MG &nbsp;|&nbsp; Computer Engineering student<br>
+   Currently learning programming &nbsp;|&nbsp;
 </p>
 
 

@@ -1,11 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2804F5,6A0DAD&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 
-<p align="center">
-  <b> Hello, welcome to my GitHub profile!</b><br>
-  📍 Uberlândia, MG &nbsp;|&nbsp; Computer Engineering student<br>
-   Currently learning programming &nbsp;|&nbsp;
+<p align="center" style="font-size:16px; line-height:1.5;">
+  <strong>Hello, welcome to my GitHub profile!</strong><br>
+  Uberlândia, MG &nbsp; • &nbsp; Computer Engineering student<br>
+  Currently learning programming
 </p>
-
 
 ---
 

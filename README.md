@@ -4,7 +4,7 @@
   <strong>Hello, welcome to my GitHub profile!</strong><br>
   Uberlândia, MG &nbsp; • &nbsp; Computer Engineering student<br>
   Currently learning programming
-</p> gostaria de colocar uma imaghem de anime nesse header de git hub
+</p> 
 
 <p align="center" style="font-size:16px; line-height:1.5;">
   <strong>Hello, welcome to my GitHub profile!</strong><br>

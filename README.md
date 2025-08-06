@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2804F5,6A0DAD&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 
 <p align="center">
-  <img src="[https://pin.it/5418Jt8zf](https://imgur.com/a/1dSeOoe)" height="200" alt="Anime Banner" />
+  <img src="https://pin.it/5418Jt8zf](https://imgur.com/a/1dSeOoe)" height="200" alt="Anime Banner" />
 </p>
 
 <p align="center" style="font-size:16px; line-height:1.5;">

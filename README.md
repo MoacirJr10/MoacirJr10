@@ -1,8 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2804F5,6A0DAD&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=40&animation=fadeIn" />
+<img width="100%" src="https://i.pinimg.com/736x/17/b3/8f/17b38f4eb4f0bcd589f1c84f7b2aa6f5.jpg" alt="Anime Banner" />
 
-<p align="center">
-  <img src="[https://pin.it/5418Jt8zf](https://imgur.com/a/1dSeOoe)](https://imgur.com/wLlnGW8)" height="200" alt="Anime Banner" />
+<p align="center" style="font-size:16px; line-height:1.5;">
+  <strong>Hello, welcome to my GitHub profile!</strong><br>
+  Uberlândia, MG &nbsp; • &nbsp; Computer Engineering student<br>
+  Currently learning programming
 </p>
+
 
 <p align="center" style="font-size:16px; line-height:1.5;">
   <strong>Hello, welcome to my GitHub profile!</strong><br>

@@ -8,7 +8,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
@@ -16,19 +15,16 @@
 
 ---
 
-### 🏆 Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=MoacirJr10&theme=dracula&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 
 ---
 
-### 📱 Connect with Me
 <a href="https://www.linkedin.com/in/moacir-pereira/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ---
 
-### 💻 Languages & Frameworks
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -44,7 +40,6 @@
 
 ---
 
-### 🛠 Tools & IDEs
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -56,12 +51,11 @@
 
 ---
 
-### 📈 Activity Graph
+
 [![Moacir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 👀 Visitors
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoacirJr10&count_bg=%232804F5&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true" alt="Visitor Counter" />
 </p>

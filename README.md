@@ -2,10 +2,10 @@
   <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="Welcome GIF" width="800"/>
 </p>
 
-<h1 align="center">Olá, eu sou Moacir Pereira!</h1>
+<h1 align="center">Hi, I'm Moacir Pereira!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">

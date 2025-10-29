@@ -1,38 +1,38 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="Welcome GIF" width="800"/>
+  <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="GIF de Boas-vindas" width="800"/>
 </p>
 
-<h1 align="center">Hi, I'm Moacir Pereira!</h1>
+<h1 align="center">Olá, eu sou Moacir Pereira!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!" alt="Texto Animado" />
 </p>
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">
-  <strong>Computer Engineering Student | Uberlândia, Brazil</strong><br>
-  Transitioning my career into the tech field, passionate about programming and constantly learning new technologies.<br>
-  Currently seeking an opportunity to apply my skills and grow professionally.<br>
-  Always exploring new frameworks, tools, and best practices in software development.
+  <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong><br>
+  Em transição de carreira para a área de tecnologia, apaixonado por programação e constantemente aprendendo novas tecnologias.<br>
+  Atualmente buscando uma oportunidade para aplicar minhas habilidades e crescer profissionalmente.<br>
+  Sempre explorando novos frameworks, ferramentas e melhores práticas em desenvolvimento de software.
 </p>
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens Mais Usadas" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=dark&hide_border=true&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=dark&hide_border=true&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="Estatísticas de Sequência" />
 </div>
 
 ---
 
-## Tech Stack
+## Stack de Tecnologias
 
-### Frontend Development
+### Desenvolvimento Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </div>
 
-### Backend Development
+### Desenvolvimento Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -49,13 +49,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </div>
 
-### Database & Storage
+### Banco de Dados e Armazenamento
 <div align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-### Tools & Technologies
+### Ferramentas e Tecnologias
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -66,76 +66,76 @@
 
 ---
 
-## What I'm Currently Working On
+## No Que Estou Trabalhando Atualmente
 
-- **Learning**: Advanced React concepts and state management
-- **Exploring**: Cloud technologies (AWS, Docker)
-- **Looking to collaborate**: Open source projects related to web development
-- **Seeking help**: Best practices in software architecture and design patterns
-- **Ask me about**: Java, JavaScript, React, or anything related to web development
-- **Fun fact**: I love solving algorithmic challenges and building IoT projects with Arduino!
-
----
-
-## GitHub Activity
-
-[![Moacir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Aprendendo**: Conceitos avançados de React e gerenciamento de estado
+- **Explorando**: Tecnologias de nuvem (AWS, Docker)
+- **Buscando colaborar**: Projetos open source relacionados a desenvolvimento web
+- **Procurando ajuda**: Melhores práticas em arquitetura de software e padrões de design
+- **Pergunte-me sobre**: Java, JavaScript, React ou qualquer coisa relacionada a desenvolvimento web
+- **Curiosidade**: Adoro resolver desafios algorítmicos e construir projetos de IoT com Arduino!
 
 ---
 
-## Featured Projects
+## Atividade no GitHub
+
+[![Gráfico de Atividade do Moacir](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Projetos em Destaque
 
 <div align="center">
   
-| Project | Description | Technologies |
+| Projeto | Descrição | Tecnologias |
 |---------|-------------|-------------|
-| **Temperature Monitor** | IoT system with Arduino, DHT11 sensor, and OLED display | `Arduino` `C++` `IoT` |
-| **Portfolio Website** | Personal portfolio showcasing my projects and skills | `HTML` `CSS` `JavaScript` |
-| **Furniture Store System** | Desktop application for furniture sales management | `Java` `Swing` `SQLite` |
-| **Arduino Projects** | Collection of IoT and embedded systems projects | `Arduino` `C++` `Sensors` |
+| **Monitor de Temperatura** | Sistema IoT com Arduino, sensor DHT11 e display OLED | `Arduino` `C++` `IoT` |
+| **Site Portfólio** | Portfólio pessoal apresentando meus projetos e habilidades | `HTML` `CSS` `JavaScript` |
+| **Sistema de Loja de Móveis** | Aplicação desktop para gerenciamento de vendas de móveis | `Java` `Swing` `SQLite` |
+| **Projetos Arduino** | Coleção de projetos de IoT e sistemas embarcados | `Arduino` `C++` `Sensores` |
 
 </div>
 
 ---
 
-## Let's Connect!
+## Vamos Nos Conectar!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacir-pereira/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:moacir.1000rr@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](#)
-[![Resume](https://img.shields.io/badge/-Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Currículo](https://img.shields.io/badge/-Currículo-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
 
 </div>
 
 ---
 
-## When I'm Not Coding...
+## Quando Não Estou Programando...
 
-- Riding motorcycles and exploring new places
-- Reading about emerging technologies and industry trends
-- Playing strategy games and solving puzzles
-- Building DIY electronics projects
-- Staying active and maintaining work-life balance
+- Pilotando motos e explorando novos lugares
+- Lendo sobre tecnologias emergentes e tendências da indústria
+- Jogando jogos de estratégia e resolvendo quebra-cabeças
+- Construindo projetos DIY de eletrônica
+- Mantendo-me ativo e equilibrando trabalho e vida pessoal
 
 ---
 
-## Random Dev Quote
+## Frase Aleatória de Desenvolvedor
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frase Aleatória de Dev"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Thank you for visiting my profile!</h3>
-  <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
+  <h3>Obrigado por visitar meu perfil!</h3>
+  <p>Sinta-se à vontade para dar uma estrela ⭐ em alguns repositórios se achá-los interessantes!</p>
   
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoacirJr10.MoacirJr10&color=00bfbf&style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoacirJr10.MoacirJr10&color=00bfbf&style=flat-square&logo=github" alt="Visualizações do Perfil" />
   
   <br/><br/>
   
-  ⭐️ From [MoacirJr10](https://github.com/MoacirJr10)
+  ⭐️ De [MoacirJr10](https://github.com/MoacirJr10)
 </div>

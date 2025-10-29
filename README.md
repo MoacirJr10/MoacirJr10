@@ -103,8 +103,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacir-pereira/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:moacir.1000rr@hotmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=react&logoColor=white)](#)
-[![Currículo](https://img.shields.io/badge/-Currículo-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
 
 </div>
 

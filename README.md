@@ -10,9 +10,8 @@
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">
   <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong><br>
-  Em transição de carreira para a área de tecnologia, apaixonado por programação e constantemente aprendendo novas tecnologias.<br>
+  Em transição de carreira para a área de tecnologia.<br>
   Atualmente buscando uma oportunidade para aplicar minhas habilidades e crescer profissionalmente.<br>
-  Sempre explorando novos frameworks, ferramentas e melhores práticas em desenvolvimento de software.
 </p>
 
 ---
@@ -108,16 +107,6 @@
 [![Currículo](https://img.shields.io/badge/-Currículo-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
 
 </div>
-
----
-
-## Quando Não Estou Programando...
-
-- Pilotando motos e explorando novos lugares
-- Lendo sobre tecnologias emergentes e tendências da indústria
-- Jogando jogos de estratégia e resolvendo quebra-cabeças
-- Construindo projetos DIY de eletrônica
-- Mantendo-me ativo e equilibrando trabalho e vida pessoal
 
 ---
 

@@ -67,12 +67,12 @@
 
 ## No Que Estou Trabalhando Atualmente
 
-- **Aprendendo**: Conceitos avançados de React e gerenciamento de estado
-- **Explorando**: Tecnologias de nuvem (AWS, Docker)
-- **Buscando colaborar**: Projetos open source relacionados a desenvolvimento web
-- **Procurando ajuda**: Melhores práticas em arquitetura de software e padrões de design
-- **Pergunte-me sobre**: Java, JavaScript, React ou qualquer coisa relacionada a desenvolvimento web
-- **Curiosidade**: Adoro resolver desafios algorítmicos e construir projetos de IoT com Arduino!
+- **Aprendendo**:
+- **Explorando**: 
+- **Buscando colaborar**: Projetos open 
+- **Procurando ajuda**: 
+- **Pergunte-me sobre**: 
+- **Curiosidade**:
 
 ---
 

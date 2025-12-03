@@ -21,21 +21,18 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" 
-    height="170" 
-    alt="stats graph" 
+    src="https://stats-github-readme.vercel.app/api?username=MoacirJr10&show_icons=true&hide_border=true&bg_color=00000000&title_color=00eaff&text_color=c9d1d9&icon_color=00eaff" 
+    height="160"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=c9d1d9" 
-    height="170" 
-    alt="languages graph" 
+    src="https://stats-github-readme.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&bg_color=00000000&title_color=00eaff&text_color=c9d1d9" 
+    height="160"
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=neon-dark&hide_border=true&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" 
-    width="90%" 
-    alt="streak graph"
+    src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" 
+    width="90%"
   />
 
 </div>

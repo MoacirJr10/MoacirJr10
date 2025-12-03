@@ -30,10 +30,11 @@
     height="160"
   />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" 
-    width="90%"
-  />
+<img 
+  src="https://streak-stats.demolab.com?user=MoacirJr10&theme=dark&hide_border=true&ring=00eaff&fire=00eaff&currStreakLabel=00eaff"
+  width="90%"
+/>
+
 
 </div>
 

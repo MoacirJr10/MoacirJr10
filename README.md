@@ -16,15 +16,28 @@
 
 ---
 
-## Estatísticas do GitHub
+##  GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens Mais Usadas" />
-</div>
 
-<div align="center" style="margin-top: 20px;">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=dark&hide_border=true&stroke=00BFBF&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF" alt="Estatísticas de Sequência" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" 
+    height="170" 
+    alt="stats graph" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&hide_border=true&bg_color=00000000&title_color=00f0ff&text_color=c9d1d9" 
+    height="170" 
+    alt="languages graph" 
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=MoacirJr10&theme=neon-dark&hide_border=true&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" 
+    width="90%" 
+    alt="streak graph"
+  />
+
 </div>
 
 ---

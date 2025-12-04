@@ -10,8 +10,6 @@
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">
   <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong><br>
-  Em transição de carreira para a área de tecnologia.<br>
-  Atualmente buscando uma oportunidade para aplicar minhas habilidades e crescer profissionalmente.<br>
 </p>
 
 ---

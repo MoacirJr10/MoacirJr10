@@ -15,9 +15,40 @@
 ---
 
 ## Atividade no GitHub
+---
 
-[![Gráfico de Atividade do Moacir](https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&bg_color=000000&color=2804F5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🎮 Atividade no GitHub
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MoacirJr10&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+</p>
+
+### 🐍 Cobrinha devorando meus commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoacirJr10/MoacirJr10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoacirJr10/MoacirJr10/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MoacirJr10/MoacirJr10/output/github-snake.svg" />
+  </picture>
+</p>
+
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoacirJr10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Troféus" />
+</p>
+
+---
 ---
 
 ## Vamos Nos Conectar!

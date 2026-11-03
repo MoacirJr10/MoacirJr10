@@ -1,34 +1,10 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="GIF de Boas-vindas" width="800"/>
-</p>
-
-<h1 align="center">Olá, eu sou Moacir Pereira!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!" alt="Texto Animado" />
-</p>
-
-<p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">
-  <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong>
-</p>
-
----
-
-## Atividade no GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MoacirJr10&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de commits" />
-</p>
-
-<p align="center">
   <img src="./github-metrics.svg" alt="Métricas do GitHub" width="700" />
 </p>
 
 <p align="center">
-  <img src="./github-calendar.svg" alt="Calendário de contribuições" width="500" />
+  <img src="https://streak-stats.demolab.com/?user=MoacirJr10&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de commits" />
 </p>
-
-### Cobrinha devorando meus commits
 
 <p align="center">
   <picture>
@@ -39,9 +15,6 @@
 </p>
 
 ---
-
-## Vamos Nos Conectar!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacir-pereira/)

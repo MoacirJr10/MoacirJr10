@@ -14,22 +14,17 @@
 
 ---
 
-##  Atividade no GitHub
+## 🎮 Atividade no GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MoacirJr10&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoacirJr10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoacirJr10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" height="165" />
+  <img src="./github-metrics.svg" alt="Métricas do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoacirJr10&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-</p>
-
-###  Cobrinha devorando meus commits
+### 🐍 Cobrinha devorando meus commits
 
 <p align="center">
   <picture>
@@ -39,7 +34,7 @@
   </picture>
 </p>
 
-###  Troféus
+### 🏆 Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MoacirJr10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Troféus" />
@@ -47,7 +42,7 @@
 
 ---
 
-##  Vamos Nos Conectar!
+## 🤝 Vamos Nos Conectar!
 
 <div align="center">
 

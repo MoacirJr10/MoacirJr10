@@ -9,12 +9,9 @@
 </p>
 
 <p align="center" style="font-size: 18px; line-height: 1.6; margin-top: 10px;">
-  <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong><br>
+  <strong>Estudante de Engenharia de Computação | Uberlândia, Brasil</strong>
 </p>
 
----
-
-## Atividade no GitHub
 ---
 
 ## 🎮 Atividade no GitHub
@@ -49,9 +46,8 @@
 </p>
 
 ---
----
 
-## Vamos Nos Conectar!
+## 🤝 Vamos Nos Conectar!
 
 <div align="center">
 
@@ -65,10 +61,6 @@
 <div align="center">
   <h3>Obrigado por visitar meu perfil!</h3>
   <p>Sinta-se à vontade para dar uma estrela ⭐ em alguns repositórios se achá-los interessantes!</p>
-  
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MoacirJr10.MoacirJr10&color=00bfbf&style=flat-square&logo=github" alt="Visualizações do Perfil" />
-  
-  <br/><br/>
-  
-  ⭐️ De [MoacirJr10](https://github.com/MoacirJr10)
 </div>

@@ -1,3 +1,24 @@
+# Olá! Eu sou Moacir Pereira 👋
+
+Desenvolvo projetos de automação, aplicações desktop e sistemas embarcados, com foco em manutenção, integração e resolução de problemas reais.
+
+**Tecnologias:** Java, Python, JavaScript/TypeScript, PowerShell, Bash, SQL, Arduino e ESP32/ESP8266.
+
+## Projetos em destaque
+
+| Projeto | Objetivo |
+|---|---|
+| [SysBot](https://github.com/MoacirJr10/SysBot) | Diagnóstico e manutenção no Windows |
+| [Manual-Atualizar](https://github.com/MoacirJr10/Manual-Atualizar) | Ferramentas de atualização e manutenção Linux |
+| [sensor-temp](https://github.com/MoacirJr10/sensor-temp) | Monitoramento IoT de temperatura e umidade |
+| [OrcamentoMoveisPlanejados](https://github.com/MoacirJr10/OrcamentoMoveisPlanejados) | Aplicação Java para orçamentos |
+| [controle_financeiro](https://github.com/MoacirJr10/controle_financeiro) | Controle financeiro desktop |
+| [HandGestureRecognition](https://github.com/MoacirJr10/HandGestureRecognition) | Estudo de visão computacional com OpenCV |
+
+Os projetos são desenvolvidos e revisados continuamente; alguns são demonstrações educacionais.
+
+## Atividade no GitHub
+
 <p align="center">
   <img src="./github-metrics.svg" alt="Métricas do GitHub" width="700" />
 </p>
@@ -15,9 +36,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacir-pereira/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:moacir.1000rr@hotmail.com)
 
-</div>
 
 ---
 

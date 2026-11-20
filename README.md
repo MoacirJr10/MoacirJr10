@@ -1,21 +1,8 @@
-# Olá! Eu sou Moacir Pereira 👋
+# Olá! Eu sou Moacir Pereira 
 
 Desenvolvo projetos de automação, aplicações desktop e sistemas embarcados, com foco em manutenção, integração e resolução de problemas reais.
 
 **Tecnologias:** Java, Python, JavaScript/TypeScript, PowerShell, Bash, SQL, Arduino e ESP32/ESP8266.
-
-## Projetos em destaque
-
-| Projeto | Objetivo |
-|---|---|
-| [SysBot](https://github.com/MoacirJr10/SysBot) | Diagnóstico e manutenção no Windows |
-| [Manual-Atualizar](https://github.com/MoacirJr10/Manual-Atualizar) | Ferramentas de atualização e manutenção Linux |
-| [sensor-temp](https://github.com/MoacirJr10/sensor-temp) | Monitoramento IoT de temperatura e umidade |
-| [OrcamentoMoveisPlanejados](https://github.com/MoacirJr10/OrcamentoMoveisPlanejados) | Aplicação Java para orçamentos |
-| [controle_financeiro](https://github.com/MoacirJr10/controle_financeiro) | Controle financeiro desktop |
-| [HandGestureRecognition](https://github.com/MoacirJr10/HandGestureRecognition) | Estudo de visão computacional com OpenCV |
-
-Os projetos são desenvolvidos e revisados continuamente; alguns são demonstrações educacionais.
 
 ## Atividade no GitHub
 

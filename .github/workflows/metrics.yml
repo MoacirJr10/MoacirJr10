@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/metrics.yml"
 
 permissions:
   contents: read
@@ -11,6 +14,9 @@ permissions:
 
 jobs:
   github-metrics:
+    # A ação atualiza os arquivos SVG no repositório via API do GitHub.
+    permissions:
+      contents: write
     timeout-minutes: 15
     runs-on: ubuntu-latest
     steps:
